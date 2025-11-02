@@ -5,3 +5,4 @@ pyautogui==0.9.54
 opencv-python==4.10.0.84
 keyboard==0.13.5
 mouse==0.7.1
+gunicorn
